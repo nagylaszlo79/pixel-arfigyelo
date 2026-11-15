@@ -1,8 +1,40 @@
 {
-  "updatedAt": "2026-11-15T14:47:46.570608+00:00",
-  "offers": [],
+  "updatedAt": "2026-11-15T15:03:40.446269+00:00",
+  "offers": [
+    {
+      "id": "auto-0",
+      "store": "HardverApró (hirdetések)",
+      "country": "HU",
+      "condition": "unknown",
+      "storage": 256,
+      "price": null,
+      "currency": null,
+      "shipping": 0,
+      "shippingKnown": false,
+      "warranty": "Nem ellenőrzött",
+      "notes": "Hivatkozásból felismert jelölt; ár és új állapot nem igazolt",
+      "url": "https://hardverapro.hu/apro/google_pixel_10_pro_pro_xl_256gb/friss.html",
+      "date": "2026-11-15T15:03:40.446269+00:00",
+      "automatic": true
+    },
+    {
+      "id": "auto-1",
+      "store": "HardverApró (hirdetések)",
+      "country": "HU",
+      "condition": "unknown",
+      "storage": 256,
+      "price": null,
+      "currency": null,
+      "shipping": 0,
+      "shippingKnown": false,
+      "warranty": "Nem ellenőrzött",
+      "notes": "Hivatkozásból felismert jelölt; ár és új állapot nem igazolt",
+      "url": "https://hardverapro.hu/apro/google_pixel_10_pro_16_256_gb/friss.html",
+      "date": "2026-11-15T15:03:40.446269+00:00",
+      "automatic": true
+    }
+  ],
   "errors": [
-    "Partnerogsm (kategória): nem találtam megfelelő strukturált termékadatot",
-    "HardverApró (hirdetések): nem találtam megfelelő strukturált termékadatot"
+    "Partnerogsm (kategória): nincs felismerhető ajánlat"
   ]
 }
