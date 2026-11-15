@@ -1,1 +1,8 @@
-{"updatedAt":null,"offers":[],"errors":["Még nem futott automatikus ellenőrzés."]}
+{
+  "updatedAt": "2026-11-15T14:47:46.570608+00:00",
+  "offers": [],
+  "errors": [
+    "Partnerogsm (kategória): nem találtam megfelelő strukturált termékadatot",
+    "HardverApró (hirdetések): nem találtam megfelelő strukturált termékadatot"
+  ]
+}
