@@ -1,8 +1,24 @@
 {
-  "updatedAt": "2026-11-17T07:58:30.279143+00:00",
+  "updatedAt": "2026-11-17T20:58:34.528936+00:00",
   "offers": [
     {
       "id": "auto-0",
+      "store": "HardverApró (hirdetések)",
+      "country": "HU",
+      "condition": "unknown",
+      "storage": 512,
+      "price": null,
+      "currency": null,
+      "shipping": 0,
+      "shippingKnown": false,
+      "warranty": "Nem ellenőrzött",
+      "notes": "Hivatkozásból felismert jelölt; ár és új állapot nem igazolt",
+      "url": "https://hardverapro.hu/apro/pixel_10_pro_512/friss.html",
+      "date": "2026-11-17T20:58:34.528936+00:00",
+      "automatic": true
+    },
+    {
+      "id": "auto-1",
       "store": "HardverApró (hirdetések)",
       "country": "HU",
       "condition": "unknown",
@@ -14,7 +30,7 @@
       "warranty": "Nem ellenőrzött",
       "notes": "Hivatkozásból felismert jelölt; ár és új állapot nem igazolt",
       "url": "https://hardverapro.hu/apro/google_pixel_10_pro_16_256_gb/friss.html",
-      "date": "2026-11-17T07:58:30.279143+00:00",
+      "date": "2026-11-17T20:58:34.528936+00:00",
       "automatic": true
     }
   ],
